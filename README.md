@@ -452,4 +452,8 @@ npx -y @smithery/cli install @cantian-ai/bazi-mcp --client claude
 }
 ```
 
+## 进阶文档 | Further Reading
+
+- [神煞总览 | Shensha Summary](./docs/shensha.md) - `getBaziDetail` 返回的 `神煞` 字段说明与吉凶星速查。
+
 **Keywords**: Bazi MCP, Bazi AI Agent, Fengshui AI Agent, Bazi Calculator MCP, Bazi Calculator AI, Cantian AI
