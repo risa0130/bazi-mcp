@@ -455,5 +455,6 @@ npx -y @smithery/cli install @cantian-ai/bazi-mcp --client claude
 ## 进阶文档 | Further Reading
 
 - [神煞总览 | Shensha Summary](./docs/shensha.md) - `getBaziDetail` 返回的 `神煞` 字段说明与吉凶星速查。
+- [三命通会命理解读参考 | Sanming Tonghui Interpretation Reference](./docs/sanming-tonghui.md) - 基于《三命通会》的命式鑑定手順（強弱・格局・用神・大運・六親・特殊格局）とクライアントLLM向けの鑑定テンプレート。
 
 **Keywords**: Bazi MCP, Bazi AI Agent, Fengshui AI Agent, Bazi Calculator MCP, Bazi Calculator AI, Cantian AI
